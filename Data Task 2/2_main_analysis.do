@@ -1,6 +1,6 @@
 // Data Task for Chicago Stigler Center
 // Oct. 29, 2023
-global path "C:\Users\huhu\Desktop\Code Task\stigler_coding_task"
+global path "C:\Users\huhu\Desktop\Code Task\***_task"
 global D    "$path\data"      //data file
 global Out  "$path\out"       //result: graph and table
 cd "$D"                       //set current working directory
