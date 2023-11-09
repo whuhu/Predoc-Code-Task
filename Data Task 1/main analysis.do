@@ -1,6 +1,6 @@
-// Data Task for Chicago Booth
+// Data Task
 // Oct. 19, 2023
-global path "C:\Users\haoliang hu\Desktop\Code Task\Noel-Zwick Data task"
+global path "C:\Users\haoliang hu\Desktop\Code Task\****** Data task"
 global D    "$path\data"      //data file
 global Out  "$path\out"       //result: graph and table
 cd "$D"                       //set current working directory
