@@ -1,4 +1,4 @@
-// Data Task for HKS
+// Data Task for ***
 // Nov. 17, 2023
 clear all
 set more off 
@@ -6,7 +6,7 @@ cap log close
 set maxvar 20000
 set scheme cleanplots, perm
 
-global path "C:\Users\huhu\Desktop\Code Task\HIL_DataTask_2024"
+global path "C:\Users\huhu\Desktop\Code Task\***"
 global D    "$path\data"      //data file
 global Out  "$path\out"       //result: graph and table
 cd "$D"                       //set current working directory
